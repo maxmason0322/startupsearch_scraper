@@ -1,5 +1,7 @@
 # A very simple Python scraper for [StartupSearch.com](https://startupsearch.com/)
 
+The full csv file is included in this repository under **StartupSearch.csv**
+
 ### Libraries used:
 
 - requests
